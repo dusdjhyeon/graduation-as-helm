@@ -4,5 +4,5 @@ image:
   pullPolicy: Always
 
 schedule: "0 2 * * *"
-upperBound: 95
+upperBound: 0.96
 deploymentName: dusdj-deployment
