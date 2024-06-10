@@ -1,0 +1,8 @@
+image:
+  repository: gcr.io/helical-ion-423904-u2/operator
+  tag: latest
+  pullPolicy: Always
+
+schedule: "0 2 * * *"
+upperBound: 95
+deploymentName: dusdj-deployment
