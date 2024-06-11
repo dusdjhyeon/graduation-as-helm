@@ -10,3 +10,13 @@ entries:
     urls:
     - https://github.com/dusdjhyeon/graduation-as-helm/releases/download/cpu-scaling-operator-0.1.2/cpu-scaling-operator-0.1.2.tgz
     version: 0.1.2
+  graduation-proj:
+  - apiVersion: v2
+    created: "2024-06-11T06:20:36.573234336Z"
+    description: A Helm chart for Kubernetes CPU scaling operator
+    digest: 070a566b7799278819714cfd3b2e93ad3dd45cfce5e33b3b6f231ce4f06a5f13
+    name: graduation-proj
+    type: application
+    urls:
+    - https://github.com/dusdjhyeon/graduation-as-helm/releases/download/cpu-scaling-operator-0.1.4/cpu-scaling-operator-0.1.4.tgz
+    version: 0.1.4
